@@ -74,7 +74,7 @@
 
 ### Github Stats
 
-<img alt="Parth Shuklas's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hidimpu&show_icons=true&count_private=true" />
+<img alt="Sahil Singh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hidimpu&show_icons=true&count_private=true" />
 
 <br>
  <br>
@@ -83,7 +83,7 @@
   <b>GitHub Visitors</b>
   <br>
   <br>
-  <img alt="Page counter" src="https://profile-counter.glitch.me/hidimpu/count.svg">
+  <img alt="Page counter" src="https://profile-counter.glitch.me/sahilsingh7735/count.svg">
 </p>
 
 
