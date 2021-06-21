@@ -83,7 +83,7 @@
   <b>GitHub Visitors</b>
   <br>
   <br>
-  <img alt="Page counter" src="https://profile-counter.glitch.me/sahilsingh7735/count.svg">
+  <img alt="Page counter" src="https://github.com/sahilsingh7735">
 </p>
 
 
