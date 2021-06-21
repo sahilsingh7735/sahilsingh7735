@@ -1,5 +1,5 @@
 
-### Hi there, I'm Sahil - aka [hidimpu](https://parthshukla.netlify.app/) 👋
+### Hi there, I'm Sahil Singh - aka [hidimpu](https://parthshukla.netlify.app/) 👋
 
 
 
@@ -7,19 +7,15 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/techdimpu?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fhidimpu&screen_name=techdimpu)
 
-### I am a Web Developer, Music Producer, Content Writer, and student!
+### I am a Web Developer, and student!
 
-- 🔭  I just created this simple to use music downloader: [Music-Dl](https://github.com/hidimpu/music-dl)!
+- 🔭  I just created this simple to use music downloader: 
 - 🌱  Currently polishing my skills on Node JS and Django 
 - 👯 Open to collaborate and learn about new technologies.
 - 🥅 2021 Goals: Make more utility projects and learn DSA
 - ⚡ Fun fact: I also used to make vector arts and thumbnails for C4ETech Youtube Channel in Teenage :)
 
 ---
-
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/31rosc22kmon2h42ofuvdl63bffq?si=NZ37Rx9uQeu5pMxPQeIfow)
 
 ### Connect with me:
 
