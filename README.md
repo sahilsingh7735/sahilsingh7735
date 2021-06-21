@@ -19,9 +19,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="https://parthshukla.netlify.app/" width="28px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://parthshukla.netlify.app/)
+<!-- [<img align="left" alt="https://parthshukla.netlify.app/" width="28px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://parthshukla.netlify.app/) -->
 
-[<img align="left" alt="" width="29px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg"/>](https://www.youtube.com/dxmpu)
 
 [<img align="left" alt="swapnilsoni1999 | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/techdimpu)
 [<img align="left" alt="swapnilsoni1999 | LinkedIn" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/parthds/)
@@ -74,7 +73,7 @@
 
 ### Github Stats
 
-<img alt="Sahil Singh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hidimpu&show_icons=true&count_private=true" />
+<img alt="Sahil Singh's Github Stats" src="" />
 
 <br>
  <br>
@@ -83,7 +82,7 @@
   <b>GitHub Visitors</b>
   <br>
   <br>
-  <img alt="Page counter" src="https://github.com/sahilsingh7735">
+ <img alt="Page counter" src="https://profile-counter.glitch.me/sahilsingh7735/count.svg">
 </p>
 
 
