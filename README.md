@@ -1,9 +1,9 @@
 
-### Hi there, I'm Sahil Singh - aka [hidimpu](https://parthshukla.netlify.app/) 👋
+### Hi there, I'm Sahil Singh - aka [sahilsingh7735](https://dev-sahil-singh.pantheonsite.io/) 👋
 
 
 
-[![Website](https://img.shields.io/website?label=parthshukla.netlify.app&style=for-the-badge&url=https%3A%2F%2Fparthshukla.netlify.app)](https://parthshukla.netlify.app/)
+[![Website](https://img.shields.io/website?label=parthshukla.netlify.app&style=for-the-badge&url=https%3A%2F%2Fparthshukla.netlify.app)](https://dev-sahil-singh.pantheonsite.io/)
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/techdimpu?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fhidimpu&screen_name=techdimpu)
 
