@@ -3,7 +3,7 @@
 
 
 
-[![Website](https://img.shields.io/website?label=parthshukla.netlify.app&style=for-the-badge&url=https%3A%2F%2Fparthshukla.netlify.app)](https://dev-sahil-singh.pantheonsite.io/)
+[![Website]()](https://dev-sahil-singh.pantheonsite.io/)
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/techdimpu?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fhidimpu&screen_name=techdimpu)
 
@@ -19,7 +19,7 @@
 
 ### Connect with me:
 
-<!-- [<img align="left" alt="https://parthshukla.netlify.app/" width="28px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://parthshukla.netlify.app/) -->
+[<img align="left" alt="https://parthshukla.netlify.app/" width="28px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://dev-sahil-singh.pantheonsite.io/)
 
 
 [<img align="left" alt="swapnilsoni1999 | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/techdimpu)
