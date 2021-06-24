@@ -3,7 +3,7 @@
 
 
 
-[![Website]()](https://dev-sahil-singh.pantheonsite.io/)
+[![Website](https://img.shields.io/https://dev-sahil-singh.pantheonsite.io)](https://dev-sahil-singh.pantheonsite.io/)
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/techdimpu?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fhidimpu&screen_name=techdimpu)
 
