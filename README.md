@@ -19,7 +19,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="https://parthshukla.netlify.app/" width="28px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://dev-sahil-singh.pantheonsite.io/)
+[<img align="left" alt="https://dev-sahil-singh.pantheonsite.io/" width="28px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://dev-sahil-singh.pantheonsite.io/)
 
 
 [<img align="left" alt="swapnilsoni1999 | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/techdimpu)
