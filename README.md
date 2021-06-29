@@ -8,7 +8,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/techdimpu?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/SahilSi53697800?s=09)
 
 <p>
-  <a href="https://twitter.com/dee013_"><img width="25" height="25" src="/res/twitter.svg"></a>
+  <a href="https://twitter.com/SahilSi53697800?s=09"><img width="25" height="25" src="/res/twitter.svg"></a>
   &nbsp;
   <a href="https://www.linkedin.com/in/divya-lalwani-"><img width="25" height="25" src="/res/linkedin.svg"></a>
   &nbsp;
@@ -23,8 +23,8 @@
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=divyalalwani&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=divyalalwani&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sahilsingh7735&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sahilsingh7735&theme=tokyonight" />
 </p>
 
 ### I am a Web Developer, and student!
