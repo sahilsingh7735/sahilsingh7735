@@ -38,12 +38,17 @@
 [<img align="left" alt="https://dev-sahil-singh.pantheonsite.io/" width="28px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://dev-sahil-singh.pantheonsite.io/)
 
 
-[<img align="left" alt="swapnilsoni1999 | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/techdimpu)
-[<img align="left" alt="swapnilsoni1999 | LinkedIn" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/parthds/)
-[<img align="left" alt="swapnilsoni1999 | Instagram" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/dxmpu/)
+<p>
+  <a href="https://twitter.com/SahilSi53697800?s=09"><img width="25" height="25" src="/res/twitter.svg"></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/sahil-singh-a6462a131/"><img width="25" height="25" src="/res/linkedin.svg"></a>
+  &nbsp;
+  <a href="https://instagram.com/___.sahil.___.singh.___?igshid=15yt63ee7xnp2"><img width="25" height="25" src="/res/instagram.svg"></a>
+  &nbsp;
+  <a href="https://discord.com/XtreamSahil#4731"><img width="29" height="28" src="/res/discord.png"></a>
+   &nbsp;
 
-<br />
-<br />
+</p>
 
 
 ### Languages and Tools:
