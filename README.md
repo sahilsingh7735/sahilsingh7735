@@ -22,13 +22,13 @@
 
 
 <p>
-  <a href="https://twitter.com/SahilSi53697800?s=09"><img width="25" height="25" src="/res/twitter.svg"></a>
+  <a href="https://twitter.com/SahilSi53697800?s=09"><img width="25" height="25" src="/rec/twitter.svg"></a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/sahil-singh-a6462a131/"><img width="25" height="25" src="/res/linkedin.svg"></a>
+  <a href="https://www.linkedin.com/in/sahil-singh-a6462a131/"><img width="25" height="25" src="/rec/linkedin.svg"></a>
   &nbsp;
-  <a href="https://instagram.com/___.sahil.___.singh.___?igshid=15yt63ee7xnp2"><img width="25" height="25" src="/res/instagram.svg"></a>
+  <a href="https://instagram.com/___.sahil.___.singh.___?igshid=15yt63ee7xnp2"><img width="25" height="25" src="/rec/instagram.svg"></a>
   &nbsp;
-  <a href="https://discord.com/XtreamSahil#4731"><img width="29" height="28" src="/res/discord.png"></a>
+  <a href="https://discord.com/XtreamSahil#4731"><img width="29" height="28" src="/rec/discord.png"></a>
    &nbsp;
 
 </p>
