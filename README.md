@@ -5,7 +5,7 @@
 
 [![Website](https://img.shields.io/https://dev-sahil-singh.pantheonsite.io)](https://dev-sahil-singh.pantheonsite.io/)
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/techdimpu?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/SahilSi53697800?s=09)
+[![Twitter Follow](https://img.shields.io/twitter/follow/sahilsingh?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/SahilSi53697800?s=09)
 
 <p>
   <a href="https://twitter.com/SahilSi53697800?s=09"><img width="25" height="25" src="/res/twitter.svg"></a>
