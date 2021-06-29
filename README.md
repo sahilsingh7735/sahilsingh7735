@@ -22,10 +22,6 @@
 
 </p>
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sahilsingh7735&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sahilsingh7735&theme=tokyonight" />
-</p>
 
 ### I am a Web Developer, and student!
 
@@ -93,7 +89,10 @@
 
 ### Github Stats
 
-<img alt="Sahil Singh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sahilsingh7735&show_icons=true&count_private=true" />
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sahilsingh7735&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sahilsingh7735&theme=tokyonight" />
+</p>
 
 <br>
  <br>
