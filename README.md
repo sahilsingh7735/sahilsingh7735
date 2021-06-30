@@ -1,7 +1,7 @@
 
 ### Hi there, I'm Sahil Singh - aka [sahilsingh7735](https://dev-sahil-singh.pantheonsite.io/) 👋
 
-<a href=""><img width="500" height="500" src="/rec/bio.png"></a>
+<a href=""><img width="500" height="500" src="/rec/bio.gif"></a>
   &nbsp;
 
 
