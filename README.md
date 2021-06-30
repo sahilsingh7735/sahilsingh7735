@@ -1,6 +1,8 @@
 
 ### Hi there, I'm Sahil Singh - aka [sahilsingh7735](https://dev-sahil-singh.pantheonsite.io/) 👋
 
+<a href=""><img width="500" height="500" src="/rec/bio.png"></a>
+  &nbsp;
 
 
 [![Website](https://img.shields.io/https://dev-sahil-singh.pantheonsite.io)](https://dev-sahil-singh.pantheonsite.io/)
