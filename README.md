@@ -10,12 +10,10 @@
 
 ### I am a Web Developer, and student!
 
-- 🔭  I just created this simple to use music downloader: 
-- 🌱  Currently polishing my skills on Node JS and Django 
+- 🔭  I just created this simple to use youtube video downloader: 
+- 🌱  Currently polishing my skills on Node JS and React
 - 👯 Open to collaborate and learn about new technologies.
 - 🥅 2021 Goals: Make more utility projects and learn DSA
-- ⚡ Fun fact: I also used to make vector arts and thumbnails for C4ETech Youtube Channel in Teenage :)
-
 ---
 
 ### Connect with me:
