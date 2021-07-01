@@ -6,6 +6,7 @@
 
 
 [![Website]((https://img.shields.io/website?label=dev-sahil-singh.pantheonsite.io&style=for-the-badge&url=https%3A%2F%2Fdev-sahil-singh.pantheonsite.io))](https://dev-sahil-singh.pantheonsite.io/)
+[![Website](https://img.shields.io/website?label=dev-sahil-singh.pantheonsite.io&style=for-the-badge&url=https%3A%2F%2Fdev-sahil-singh.pantheonsite.io))](https://dev-sahil-singh.pantheonsite.io/)
 
 
 ### I am a Web Developer, and student!
