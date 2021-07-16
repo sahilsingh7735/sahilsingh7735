@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Sahil Singh - aka [sahilsingh7735]</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A full stack developer from India</h3>
 
 
 <a href="https://dev-sahil-singh.pantheonsite.io/"><img width="1000" height="700" src="/rec/bio.gif"></a>
