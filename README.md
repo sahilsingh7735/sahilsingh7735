@@ -1,5 +1,7 @@
 
-### Hi there, I'm Sahil Singh - aka [sahilsingh7735](https://dev-sahil-singh.pantheonsite.io/) 👋
+<h1 align="center">Hi 👋, I'm Sahil Singh - aka [sahilsingh7735]</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
+
 
 <a href="https://dev-sahil-singh.pantheonsite.io/"><img width="1000" height="700" src="/rec/bio.gif"></a>
   &nbsp;
@@ -93,8 +95,7 @@
 </p>
 
 
-<h1 align="center">Hi 👋, I'm ABC</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abc&label=Profile%20views&color=0e75b6&style=flat" alt="abc" /> </p>
 
