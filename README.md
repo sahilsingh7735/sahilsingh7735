@@ -14,7 +14,7 @@
 - 🔭  I just created this simple to use youtube video downloader: 
 - 🌱 I’m currently learning **React**
 - 👯 Open to collaborate and learn about new technologies.
-- 🥅 2022 Goals: Learn ReactJs
+- 🥅 2022 Goals: Learn NextJs
 ---
 
 
