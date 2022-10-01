@@ -1,7 +1,7 @@
 Hi 👋 My name is SAHIL SINGH
 ============================
 
-web developer
+Full Stack Developer
 -------------
 
 * 🌍  I'm based in Ahmedabad
