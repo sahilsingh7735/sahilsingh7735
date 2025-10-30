@@ -52,7 +52,7 @@ Full Stack Developer
 ### Badges
 <a><img  src="https://user-images.githubusercontent.com/66599363/143184756-f78d1e61-4283-4db5-9b0b-3550c25071f2.png" alt="hactoberFest2021" width="100" height="100g"/>
 
-[![An image of @sahilsingh7735's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sahilsingh7735)](https://holopin.io/@sahilsingh7735)
+[![An image of @sahilsingh7735's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sahilsingh7735)](https://holopin.io/@sahilsingh7735) 
 
 
 <b>My GitHub Stats</b>
