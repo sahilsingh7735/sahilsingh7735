@@ -54,6 +54,10 @@ Full Stack Developer
 
 [![An image of @sahilsingh7735's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sahilsingh7735)](https://holopin.io/@sahilsingh7735)
 
+[![An image of @sahilsingh7735's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sahilsingh7735)](https://holopin.io/@sahilsingh7735)
+
+[![An image of @sahilsingh7735's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sahilsingh7735)](https://holopin.io/@sahilsingh7735)
+
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/sahilsingh7735"><img src="https://github-readme-stats.vercel.app/api?username=sahilsingh7735&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="sahilsingh7735's GitHub stats" /></a>
