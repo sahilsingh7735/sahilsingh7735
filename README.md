@@ -54,9 +54,6 @@ Full Stack Developer
 
 [![An image of @sahilsingh7735's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sahilsingh7735)](https://holopin.io/@sahilsingh7735)
 
-[![An image of @sahilsingh7735's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sahilsingh7735)](https://holopin.io/@sahilsingh7735)
-
-[![An image of @sahilsingh7735's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sahilsingh7735)](https://holopin.io/@sahilsingh7735)
 
 <b>My GitHub Stats</b>
 
