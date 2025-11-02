@@ -6,8 +6,8 @@ Full Stack Developer
 
 * 🌍  I'm based in Ahmedabad
 * 🖥️  See my portfolio at [My Portfolio](http://dev-sahil-singh.pantheonsite.io)
-* ✉️  You can contact me at [sahilsingh7753@gmail.com](mailto:sahilsingh7753@gmail.com)
-* 🧠  I'm learning NextJS, VueJS.
+* ✉️  You can contact me at [sahilsinghofficial77@gmail.com](mailto:sahilsinghofficial77@gmail.com)
+* 🧠  I'm learning NestJs.
 
 ### Skills
 
